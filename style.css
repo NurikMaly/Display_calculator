@@ -1,0 +1,130 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.block{
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 100%;
+    display: inline-block;
+    border: 1px solid black;
+background-color: black;
+}
+.numbers{
+    position: relative;
+float: left;
+    width: 100%;
+}
+
+    .numbers input{
+        font-family: sans-serif;
+    
+        width: 100px;
+        height: 100px;
+        margin: 5px;
+     font-size: 24px;
+     background-color: white;
+    border: 0px;
+    cursor: pointer;
+    }
+    .numbers input:hover{
+        border: 1px solid black;
+        background-color: rgb(234, 238, 238);
+        }
+       
+.input{
+    margin: 0;
+    padding: 0;
+    width: 99%;
+    height: 150px;
+    color: white;
+    font-family: sans-serif;
+cursor: pointer;
+position: relative;
+top: 20px;
+font-size: 44px;
+
+}
+
+
+.out2{
+    height: 30%;
+  
+    background-color: rgb(41, 39, 39);
+        width: 90%;
+        position: relative;
+        left: 5%;
+    color: white;
+font-size: 40px;
+border: 0px;
+}
+.sec{
+    color: white;
+}
+.out3{
+border: 0px;
+position: relative;
+left: 5%;
+    height: 50%;
+width: 90%;
+color: white;
+font-size: 40px;
+    background-color: rgb(41, 39, 39);
+
+}
+.somone{
+
+    height: 200px;
+    position: relative;
+    top: 20px;
+
+}
+.buttons{
+    width: 100%;
+
+}
+.buttons1{
+
+position: relative;
+float: right;
+right: 5%;
+}
+.buttons button{
+cursor: pointer;
+
+    font-family: sans-serif;
+
+    width: 100px;
+    height: 100px;
+ background-color: orange;
+ font-size: 24px;
+    margin: 5px;
+    border: 0px;
+
+}
+.buttons button:hover{
+    border: 1px solid black;
+    
+    }
+    .buttons1 button{
+        cursor: pointer;
+        
+            font-family: sans-serif;
+        
+            width: 100px;
+            height: 100px;
+         background-color: orange;
+         font-size: 24px;
+            margin: 5px;
+            border: 0px;
+        
+        }
+        .buttons1 button:hover{
+            border: 1px solid black;
+            
+            }
+#button0{
+    width: 215px;
+}
